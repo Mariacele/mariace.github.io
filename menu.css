@@ -1,0 +1,36 @@
+navbar{
+	border: 3px black solid;
+	background: RGBA;
+	width: 790px;
+	border-radius: 10px 10px 10px;
+	margin: auto;
+	display: block;
+	font-size: 1.3em;
+}
+li:hover{
+	border: 3px black solid;
+	border-radius: 10px 30px 20px;
+	
+}
+li{
+	display: inline;
+	margin-left:25px ;
+	margin-right: 25px;
+	padding: 10px;
+}
+a{
+	width: 200px;
+	text-decoration: none;
+	display: inline black;
+	font-size: 1.1em;
+	font-weight: bold;
+	color: #FFDAB9;
+	text-shadow: 0 0 3px black;
+}
+label{
+	font-size: 1.7em;
+	display: inline black;
+	font-weight: bold;
+	color: #FFDAB9;
+	text-shadow: 0 0 3px black;
+	}
